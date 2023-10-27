@@ -1,0 +1,2 @@
+## Maps Challenge
+In this CodeStory, we're exploring the use of maps in Go. Your task is to create a map called 'studentGrades' that maps student names (string) to their grades (int). Add at least three students with their respective grades to the map, and then print the name and grade of each student in the map. Make sure to include the comment '// Add your solution here!' in your code to indicate where the solution should be added.
